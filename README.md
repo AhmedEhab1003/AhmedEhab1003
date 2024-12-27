@@ -6,9 +6,9 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://linkedin.com/in/ahmedehab-1003ae/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-</h5>
+### Connect with Me :
+
+<a href="https://linkedin.com/in/ahmedehab-1003ae" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 <!--
