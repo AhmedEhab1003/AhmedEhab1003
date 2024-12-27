@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Verification+Engineer;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hardware+Verification;&center=true&size=30">
   </a>
 </h1>
 
