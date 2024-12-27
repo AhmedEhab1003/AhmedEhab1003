@@ -1,18 +1,20 @@
 <h3 align="center">
-  Welcome to my profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Welcome to my profile!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hardware+Verification;&center=true&size=30">
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hardware+Verification;&center=true&size=30">
+</a>
 </h1>
 
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/ahmedehab-1003ae" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Ehab-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
+<!-- image in markdown -->
+![Cooding](code.gif)
 
 <!--
 **AhmedEhab1003/AhmedEhab1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
